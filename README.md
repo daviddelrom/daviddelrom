@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy David
 
-**[English version](https://github.com/daviddelrom/daviddelrom/blob/main/readme_en.md) y [Version en français](#).**
+**[English version](https://github.com/daviddelrom/daviddelrom/blob/main/readme_en.md) - [Version en français](#).**
 
 Soy **Graduado en Ciencia Política y Estudios Internacionales**. Me considero un estudiante multidisciplinar con formación en STEM y ciencias sociales. Actualmente estoy cursando el **Grado en Ingeniería Informática**.
 
