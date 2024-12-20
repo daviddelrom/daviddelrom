@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm David
 
-**[Versión en Español](https://github.com/daviddelrom/daviddelrom/blob/main/README.md) and [Version en Français](#).**
+**[Versión en Español](https://github.com/daviddelrom/daviddelrom/blob/main/README.md) - [Version en Français](#).**
 
 I hold a **Bachelor's Degree in Political Science and International Studies**. I consider myself a multidisciplinary student with a background in STEM and social sciences. I am currently pursuing a **Bachelor's Degree in Computer Engineering**.
 
