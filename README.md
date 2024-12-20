@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy David
 
-**Perfil disponible en [inglés](#) y [francés](#).**
+**[English version](#) y [Version en français](#).**
 
 Soy **Graduado en Ciencia Política y Estudios Internacionales**. Me considero un estudiante multidisciplinar con formación en STEM y ciencias sociales. Actualmente estoy cursando el **Grado en Ingeniería Informática**.
 
